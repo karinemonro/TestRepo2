@@ -13,4 +13,8 @@ Testujeme lokalni zmeny a jejich propagaci online.
 
 Testujeme merge funkcionalitu.
 
+<<<<<<< HEAD
 Testujeme konfliktni merge z vetve feature
+=======
+Testujeme konfliktni zmenu z featureB branche
+>>>>>>> featureB
